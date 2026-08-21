@@ -2,3 +2,4 @@
 
 Reproducing the `pr ship --yes` 422 from 2026-08-20. Safe to delete.
 race test 1787276787
+race2 1787276806
